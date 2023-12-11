@@ -1,4 +1,5 @@
-<img width="846" alt="Screenshot 2023-12-10 at 8 38 02 PM" src="https://github.com/Mirabordem/Mirabordem/assets/130639536/b6809919-b7bc-49fd-908a-fe5d94082555">
+
+<img width="853" alt="Screenshot 2023-12-11 at 2 05 02 PM" src="https://github.com/Mirabordem/Mirabordem/assets/130639536/c3012dec-6a99-435a-9165-266129531fed">
 
 
 
