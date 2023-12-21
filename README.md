@@ -1,7 +1,8 @@
 
-<img width="527" alt="Screenshot 2023-12-21 at 10 03 48 AM" src="https://github.com/Mirabordem/Mirabordem/assets/130639536/f94f01a2-b505-4c92-8c2d-6bab06e0d18b">
 
 
+
+<img width="527" alt="Screenshot 2023-12-21 at 10 03 48 AM" src="https://github.com/Mirabordem/Mirabordem/assets/130639536/d5fae8a6-338b-41e2-a64e-a5abde3c8e39">
 
 I am a tech enthusiast and experienced artist with a passion for problem-solving through innovation. As a sculptor, I've learned to create value from nothing — a skill I seamlessly translate into the digital landscape. In my world, technology is more than a tool, it's a medium for creation. I approach coding as an art form, sculpting applications that not only function but also impress and leave a lasting impact. Precision meets passion as I leverage my artistic perspective to build applications that stand out. I'm driven by my constant curiosity, always ready to embrace new technologies and innovative solutions. Growth and learning is a continuous journey for me, from mastering programming languages, staying ahead in dynamic industries to discovering new ways for my artistic expressions.
 Beyond the screen and my art studio, I find inspiration in nature. A yogi for decades, I bring a holistic approach to my work, ensuring balance and harmony in every project. It's a philosophy that builds my soft skills, that reflects in both my code and my connection with the natural world.
