@@ -12,7 +12,7 @@ a keen eye for design, ensuring that every project reflects a perfect blend of f
 
 Please check out my projects below, where INSIDEOUT app is the newest one.
 
-You can see my personal portfolio at www.miroslawaborkowska.com
+Also, you can see my personal portfolio at www.miroslawaborkowska.com
 
 
 <img width="850" alt="Screenshot 2023-12-10 at 8 53 57 PM" src="https://github.com/Mirabordem/Mirabordem/assets/130639536/cb39b02d-6243-4032-acc5-0fe34e0b6dca">
