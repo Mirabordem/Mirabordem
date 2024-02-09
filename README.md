@@ -11,7 +11,6 @@ A passionate software engineer and experienced, skilled designer, who enjoys tur
 a keen eye for design, ensuring that every project reflects a perfect blend of functionality and aesthetics.
 
 ➤  Please check out my projects below, where INSIDEOUT is the newest one.
-
 ➤  Also, you can see my Personal Portfolio at www.miroslawaborkowska.com
 
 
